@@ -111,7 +111,7 @@ a {
   text-decoration: none;
   cursor: pointer;
   outline: none;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: none;
 }
 a:hover {
   opacity: 0.5;
